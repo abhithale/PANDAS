@@ -1,4 +1,4 @@
-BigBasket Product Analysis with Pandas
+#BigBasket Product Analysis with Pandas
 This repository contains a Jupyter Notebook (Pandas.ipynb) dedicated to practicing data manipulation and exploratory data analysis (EDA) using the Pandas and NumPy libraries.
 
 📁 Dataset Overview
